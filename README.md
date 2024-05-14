@@ -11,6 +11,7 @@
 ***
 ## 프로그램 실행과정
   - ㅇㅇ
-  - ![프로그램 작동 사진]()
+  - ![프로그램 작동 사진](https://github.com/ETKorea/Shared-data/blob/main/teapot.png)
+  - ![프로그램 작동 사진](https://github.com/ETKorea/Shared-data/blob/main/teapotv.mp4)
 ***
 ## 소감
