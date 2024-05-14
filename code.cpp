@@ -12,8 +12,8 @@ void renderScene(void) {
     angle += rotationSpeed;
     glRotatef(angle, 1.0f, 1.0f, 1.0f);  // 주전자를 회전시킵니다.
 
-    glColor3f(1.0, 0.8, 0.6);  // 주전자의 색을 짙은 노란색으로 설정합니다.
-    glutSolidTeapot(1.0);  // 크기가 1.0인 주전자를 그립니다.
+    glColor3f(1.0, 0.8, 0.6);
+    glutSolidTeapot(1.0);
     glutSwapBuffers();
 }
 
