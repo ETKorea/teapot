@@ -10,7 +10,6 @@
 > [참고 링크](https://www.youtube.com/watch?v=8Qkpaewj-7Y)
 ***
 ## 프로그램 실행과정
-  - ㅇㅇ
   - ![프로그램 작동 사진](https://github.com/ETKorea/Shared-data/blob/main/teapot.png)
 ***
 ## 소감
